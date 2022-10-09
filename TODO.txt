@@ -1,0 +1,5 @@
+Django is used as the framework.
+
+It should be possible to upload/input a bill using a website.
+The bills should then be stored in a database.
+On the website it should be possible for the user to get an overview of the bills and the bills different catagories using nice graphs.
