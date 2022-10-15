@@ -1,5 +1,5 @@
 # BillTracker
-A website for tracking bills using the Django framework
+A website for tracking bills using the Django framework. I'm still working on this project. 
 
 ## Technology
 Python
